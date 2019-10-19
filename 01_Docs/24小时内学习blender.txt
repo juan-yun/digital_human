@@ -1,0 +1,121 @@
+How to learn Blender 3D in under 24 hours
+By Creative Bloq Staff December 01, 2015  
+
+Lance Evans takes you on a day-long crash course of this powerful open source 3D application.
+
+ 
+ 
+ 
+Until the day when desktop holography becomes a reality, 3D will remain the wholly grail of the graphics world. But 3D can be a very technical craft. And each 3D program has its own idiosyncrasies, making it all a bit daunting.
+
+I cut my 3D chops on many programs that are now long dead and forgotten. Blender is one program I've wanted to learn for many years. I've even downloaded and installed it a few times, but fell short on the follow-through to learn it. Writing this article is my personal impetus to finally get to learning it. Perhaps it can be your impetus as well. Let's see where we can take this in just 24 hours.
+
+Why choose Blender?
+Blender has many qualities that include years of steady development, a prized commodity in either commercial or open source projects. This has netted a broad range of capabilities, beyond even its full range of 3D modeling and animation tools.
+
+广告
+
+inRead invented by Teads
+For example, Blender has video editing, camera tracking, compositing, and even game creation tools all built right in. The fact that it's open source and completely free is also an unbeatable perk! (Though donations to the Blender Foundation are a good idea.) With all this power, Blender's toolset is often directly compared to top programs in the 3D field costing thousands, like Maya or 3ds Max.
+
+Naysayers may complain it lacks centralized support, since there is no commercial publisher with a help staff. However there is ample support online on many sites, and even a real time IRC chat option. This means nights and weekend support too! Plus, the Blender community can be uniquely generous with its help.
+
+The other knock is Blender's much smaller market share, which means there are perhaps fewer companies looking to hire Blender artists. Having said that, know that this is changing and there are sites like the Blender Network that specialize in matching Blender artists with employers. And even mainstream job sites are getting more Blender savvy every day.
+
+None of this is even an issue if you run your own shop or are just doing your own thing. Then all that matters are the final renderings. And few clients know or care about all this techno-geek talk.
+
+Blender's own jobs website, and it's gaining ground on other job boards as well
+Blender's own jobs website, and it's gaining ground on other job boards as well
+My first hour with Blender: installing and learning the interface
+I went up to Blender's website , clicked on the 'Download' link, and chose between the installers available for Mac, Windows, Linux and even FreeBSD. (And made a small donation while there!) Installation was almost crazy-easy, and fast. Which is common for most open source programs.
+
+Blender splash page
+Blender splash page
+Once installed, I booted it up like a kid on Christmas morning. The splash page had a number of links, including one to the official Blender manual online. The manual is an excellent resource, but perhaps a bit better suited to those that already have an introduction to both 3D and Blender.
+
+Blender's official online manual
+Blender's official online manual
+Upon first viewing, Blender's interface can be overwhelming. But it isn't as complicated as it first looks. Once you understand the logical thought process it becomes much less daunting. Logic-wise it's rather similar to Adobe programs like Photoshop or InDesign.
+
+Blender's default user interface. See the text for a quick explanation of its UI
+Blender's default user interface. See the text for a quick explanation of its UI
+The default Blender interface is made up of four areas. (A) in the image above is called the Toolbar, a collection of the most commonly used tools. (B) is the 3D Viewport, or work window. (C) is a vertical stacking of many control/preference/properties interfaces, which again, is just like Adobe products you know. (D) is the timeline, for animation work. You might be familiar with this from programs like After Effects.
+
+Understanding these basics makes Blender all the more approachable. Although not necessarily more useable. Before looking at any instructions, I felt compelled to muck about with the buttons, doodads and doohickeys, and hoped to find my way around. But I'll admit that I wasn't too successful. I began to realize that Blender wasn't quite as intuitive – at least for me – as I had hoped.
+
+So I started to explore what alternative ways I could go about learning it, beyond the button-poking. I quickly found out there are quite a few learning options out there.
+
+An extreme example of multi-monitor support
+An extreme example of multi-monitor support
+Hours two-four: organizing my education
+Starting my second hour with Blender, I began hunting for ways to learn it. I started out the way many of you would, by looking online for books. A quick search turned up dozens of books which included titles such as 'Blender 3D Cookbook' and 'Blender Basics' (both from PACKT Publishing), and 'Blender for Dummies' (John Wiley & Sons), all recently published as print and Kindle editions.
+
+
+
+I ordered a few of these books for download. Which books best fit your learning style is up to you. As might be expected by the title, the 'Dummies' books take extra pains to make easing into a new subject as painless as possible, so are a good place to start. But they also tend to not go as deep as other offerings. All the books were well written and took me step by step.
+
+And while I began learning from these books, I had to acknowledge that whether it's our cultural evolution, or just me getting older, I found it harder to read this tech material than I used to. So I began looking for other ways to learn.
+
+Hours four-10: video education, part one
+Again, I didn't do anything different here than most of you, I went trolling around YouTube with search phrases like 'learn blender', which gave a return of 157,000 videos. I'm sure most had more to do with making a good smoothie, but still, there were hundreds on Blender 3D.
+
+An advanced subject: creating a city in Blender
+An advanced subject: creating a city in Blender
+Some of the most popular Blender tutorial channels included Blender for Noobs with over 27k subscribers, Blender Guru with over 153k subscribers (see the amazing architecture video!), and tutor4u with over 172k subscribers.
+
+Pure fun: Minions in Blender!
+Pure fun: Minions in Blender!
+Jacob Lewis offers a 2014 updated 10-part video series called 'Blender Absolute Beginner Tutorial' with about 380k subscribers. One video that is seriously worth a look is Max Coulfield's great Blender sculpture timelapse.
+
+'Sculpting' a young female head and shoulders
+'Sculpting' a young female head and shoulders
+I spent time finding and then watching many videos, and at this point I had clocked in roughly 10 hours of working on the Blender project, across two or three days. Trying to do it all in one day would surely have exploded my tiny head.
+
+Hours 10-15: video education, part two
+After viewing YouTube tutorials for a bit, I will admit to a bias against any that begin with "Yo-yo fellas… wassup?" An experience that can leave you wanting more formally prepared material.
+
+So I finally did something that many of you might not actually do. I contacted Ton Roosendaal, the original creator of Blender, and now the Chairman of the Blender Foundation. He was gracious and we exchanged a number of emails. At his suggestion, I got in touch with Jonathan Williamson, a co-founder and instructor at CG Cookie, an online computer graphics video education resource. CG Cookie has courseware for Blender, as well as other subjects like creative concepting and Unity game development.
+
+CG Cookie offers online video courseware on Blender
+CG Cookie offers online video courseware on Blender
+CG Cookie offers what they call 'Learning Flows' for Blender, which contains 141 separate video installments. These are broken down into 9 sections, with topics like modeling, lighting, etc. The first module in the series is 'Blender Basics', which they make available at no cost. It contains six videos that run about a half hour total. Over the next few days I watched the intro videos, and as many of the follow-up sections as I could. All the while popping back to Blender to try things out.
+
+Hour 15 and beyond…
+I also touched base with Anja, who runs the Blender Shop on blender.org. She provided a long list of Blender learning resources, which we have reprinted at the end of the article.
+
+So by the time I was nearing my 18th hour with all of this, I was feeling like I was in a fairly good place. By that I mean I could navigate around the interface with aplomb, I could create, modify, and texture map models (with limits on complexity), light them, and render out basic animations. In other words, I could knock out basic day-to-day 3D work. No character modeling, video editing or compositing, I'll leave that for another day.
+
+If this was for myself instead of an article it would have gone faster. One book and one video series would have been fine. I'm sure you'll keep things simpler.
+
+So what are you waiting for? Download it now, and let us know how your learning curve goes!
+
+Resources (from Anja at Blender Shop)
+A good way to learn Blender if you don't have experience with 3D
+programs is to start with Blender's own tutorials and manual.
+
+You can find lots of free tutorials on the internet about learning Blender.
+
+Here are some links with lots of information:http://wiki.blender.org/index.php/Doc:2.6/Tutorialshttp://www.blendernation.com/tutorials/http://wiki.blender.org/http://cgcookie.com/blender/http://www.blenderguru.com/
+Free book link: http://wiki.blender.org/index.php/Doc:2.6/Books
+The Blender Art Magazine, free for download.
+Free Blender Basics – Introduction for Beginners (video tutoiral)
+Free Blender Basics Book for version 2.5/2.6 and 2.49
+An Introduction to Blender 2.59 free eBook
+Free Blender 3D Tutorials/e-books in PDF format
+Free: A Blender Quickstart course, a tour of Blender's modeling, uv mapping, rigging, animating, and rendering
+Free Blender 3D Design Course
+Free Blender tutorials & training
+Free video tutorials 2.5
+Free video tutorials
+Blender hotkeys:http://www.foreverblender.com/2010/02/blender-25-all-hotkeys.htmlhttp://www.katsbits.com/tutorials/blender/useful-keyboard-shortcuts.phphttp://blendertips.com/hotkeys.html
+If you have questions about using Blender you can always place them on the forums.
+
+Words: Lance Evans
+
+Lance Evans is creative director of Graphlink Media.
+
+Liked this? Read these!
+
+Google Chrome dumps old plugins - what this means for you
+How to build an app: try these great tutorials
+Free graphic design software available to you right now!
